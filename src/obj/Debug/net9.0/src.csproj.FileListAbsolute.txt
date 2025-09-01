@@ -12,3 +12,4 @@ C:\Users\Antony Matheus\projs\dotnet\src\obj\Debug\net9.0\refint\src.dll
 C:\Users\Antony Matheus\projs\dotnet\src\obj\Debug\net9.0\src.pdb
 C:\Users\Antony Matheus\projs\dotnet\src\obj\Debug\net9.0\src.genruntimeconfig.cache
 C:\Users\Antony Matheus\projs\dotnet\src\obj\Debug\net9.0\ref\src.dll
+C:\Users\Antony Matheus\projs\dotnet\src\obj\Debug\net9.0\src.sourcelink.json
